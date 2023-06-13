@@ -1,8 +1,6 @@
-id=font-koruri-n
-name=Koruri Font
-version=v25
-versionCode=25
-author=lindwurm,AndroPlus
-description=Koruri font patch for Japanese users. Koruri is open source Japanese font.
-donate=https://github.com/sponsors/AndroPlus-org?frequency=one-time
-updateJson=https://raw.githubusercontent.com/AndroPlus-org/magisk-module-koruri-font/master/update.json
+id=font-line-seed
+name=LINE Seed JP
+version=v1
+versionCode=1
+author=lindwurm,AndroPlus,Re*Index.(ot_inc)
+description=Replace LINE Seed Font.
